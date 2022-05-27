@@ -17,10 +17,10 @@ Clone this project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd calculator-project
 ```
 
- Calculator.xcodeproj 
+ Open Calculator.xcodeproj with Xcode
 
   
 ## Screenshot
