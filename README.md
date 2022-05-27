@@ -25,7 +25,7 @@ Go to the project directory
   
 ## Screenshot
 
-![App Screenshot](https://i.imgur.com/rwCLAkr.png)
+![App Screenshot](https://i.imgur.com/7nV1pED.png)
 
 
 
